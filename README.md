@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐾 Animal Classification using CNNs
 
 Deep Learning project for classifying animal images into different categories using Convolutional Neural Networks (CNNs).
@@ -24,3 +25,4 @@ It includes:
 1. Clone the repository:
 2. Install dependencies: `uv sync`
 3. Run the project: `uv run python main.py`
+>>>>>>> 0ef04fdeff16a090ce60e41d0aa3e8c6ad73ccb3
